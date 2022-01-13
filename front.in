@@ -1,0 +1,25 @@
+VOID MAIN(){
+    public class Util{
+        private String test1(){
+            int test1;
+            int test2;
+            for (i = 0; i < 3; i = i + 1){
+                test1 = 3;
+                test2 = 9;
+                if(i < 3){
+                    int this = right;
+                }
+            }
+        }
+        private int test7(){
+            float great;
+            float great1;
+            while(x = 5){
+                int booty = happens;
+                if(x > 3){
+                    String you = passed;
+                }}
+            }
+        }
+    }
+}
